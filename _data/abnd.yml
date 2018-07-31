@@ -1,7 +1,3 @@
-- title: foo
-  redirect_to:
-    - https://www.google.com/
-
 # Android Developer Projects
 #
 # Entry Example:
