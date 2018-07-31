@@ -1,24 +1,14 @@
 - title: About
   url: /
-  redirect_to:
-    - https://www.google.com/
 
 - title: ABND
   url: /abnd
-  redirect_to:
-    - https://www.google.com/
 
 - title: AND
   url: /and
-  redirect_to:
-    - https://www.google.com/
 
 - title: FEND
   url: /fend
-  redirect_to:
-    - https://www.google.com/
 
 - title: MWS
   url: /mws
-  redirect_to:
-    - https://www.google.com/
